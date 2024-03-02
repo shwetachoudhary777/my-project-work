@@ -1,0 +1,697 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#bar {
+    width: 100%;
+}
+
+#char {
+    position: absolute;
+    top: 10px;
+    position: absolute;
+    left: 100px;
+}
+
+#mov {
+    height: 600px;
+    width: 98%;
+    position: absolute;
+    top: 110px;
+    position: absolute;
+    left: 10px;
+}
+
+#search {
+    margin-left: 100%;
+    position: absolute;
+    top: 50px;
+    position: absolute;
+    right: 100px;
+}
+
+#box {
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    position: absolute;
+    left: 430px;
+}
+
+#contact {
+    background-color: green;
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    margin-top: 50px;
+    color: white;
+    transition: 1s;
+}
+#contact:hover{ background-color: rgb(52, 248, 52);}
+
+#more {
+    background-color: rgb(11, 15, 11);
+    border-radius: 20px;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    margin-top: 50px;
+    color: white;
+    margin-left: 20px;
+    transition: 1s;
+}
+#more:hover{
+    background-color: rgb(239, 54, 54); transition:1s ;
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#line {
+    height: 50px;
+    width: 100%;
+    background-color: green;
+    position: absolute;
+    margin-top: 550px;
+}
+
+#dots {
+    position: absolute;
+    right: 900px;
+    margin-top: 18px;
+}
+
+.head {
+    margin-top: 100%;
+    margin-top: 700px;
+    margin-left: 200px;
+}
+
+#hr {
+    background-color: black;
+    position: absolute;
+    left: 350px;
+    border: 2px solid black;
+    position: absolute;
+    top: 880px;
+}
+
+#title {
+    margin-left: 200px;
+}
+
+#fox {
+    height: 400px;
+    width: 200px;
+    background-color: green;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+#pic {
+    margin-left: 220px;
+    position: absolute;
+    top: 990px;
+}
+
+#major {
+    margin-left: 850px;
+    position: absolute;
+    top: 1100px;
+}
+
+#read {
+    margin-left: 990px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 150px;
+    margin-top: 20px;
+}
+
+#what {
+    position: absolute;
+    left: 200px;
+    position: absolute;
+    top: 150%;
+}
+
+#hrline {
+    border: 2px solid black;
+    margin-left: 400px;
+    position: absolute;
+    top: 1470px;
+    width: 300px;
+}
+
+#fact {
+    margin-left: 200px;
+    position: absolute;
+    top: 1500px;
+}
+
+
+
+#icon {
+    position: absolute;
+    top: 1500px;
+    position: absolute;
+    right: 1600px;
+    margin-top: 70px;
+
+}
+
+#lorem {
+    position: absolute;
+    top: 1600px;
+    position: absolute;
+    right: 1300px;
+    margin-top: 40px;
+
+
+}
+
+.selection {
+    position: absolute;
+    top: 1520px;
+    position: absolute;
+    right: 1475px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+
+
+
+#icon2 {
+    margin-left: 590px;
+    position: absolute;
+    top: 164%;
+}
+
+.resarch {
+    margin-left: 590px;
+    font-size: 20px;
+    position: absolute;
+    top: 169%;
+    font-size: 20px;
+}
+
+
+.lorm {
+    margin-left: 590px;
+    position: absolute;
+    top: 171%;
+}
+
+#icon3 {
+    margin-left: 1000px;
+    position: absolute;
+    top: 164%;
+}
+
+.tulip {
+    margin-left: 1000px;
+    position: absolute;
+    top: 169%;
+    font-size: 20px;
+
+
+}
+
+.paragraph {
+    margin-left: 1000px;
+    position: absolute;
+    top: 171%;
+}
+
+#icon4 {
+    position: absolute;
+    top: 1850px;
+    position: absolute;
+    right: 1650px;
+
+}
+
+
+.securities {
+    position: absolute;
+    top: 1900px;
+    position: absolute;
+    right: 1500px;
+    font-size: 20px;
+}
+
+.char {
+    position: absolute;
+    top: 1930px;
+    position: absolute;
+    right: 1300px;
+
+}
+
+#icon5 {
+    margin-left: 590px;
+    position: absolute;
+    top: 195%;
+}
+
+.advisory {
+    margin-left: 590px;
+    font-size: 20px;
+    position: absolute;
+    top: 199%;
+    font-size: 20px;
+
+}
+
+.character {
+    margin-left: 590px;
+    position: absolute;
+    top: 202%;
+}
+
+#icon6 {
+    margin-left: 1000px;
+    position: absolute;
+    top: 195%;
+}
+
+.managment {
+    margin-left: 1000px;
+    position: absolute;
+    top: 199%;
+    font-size: 20px;
+
+}
+
+.move {
+    margin-left: 1000px;
+    position: absolute;
+    top: 202%;
+}
+
+#sourch {
+    height: 300px;
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+#easily {
+    margin-left: 700px;
+    margin-top: -200px
+}
+
+.bid {
+    margin-left: 700px;
+    margin-top: 40px;
+}
+
+#small {
+
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 150px;
+    margin-left: 995px;
+}
+
+.human {
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+#icon7 {
+    margin-left: 200px;
+    width: 990px;
+    height: 450px;
+    margin-top: 100px;
+}
+
+.icon8 {
+    margin-left: -500px;
+    position: absolute;
+    top: 2800px;
+}
+
+#boder {
+    height: 600px;
+    width: 100%;
+}
+
+#soon {
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 150px;
+    position: absolute;
+    top: 3200px;
+    margin-right: 200px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.icon9 {
+    height: 700px;
+    width: 100%;
+    margin-top: 200px;
+}
+
+#get {
+    color: rgb(235, 228, 229);
+    position: absolute;
+    top: 3510px;
+    margin-left: 200px;
+}
+
+#hrline2 {
+    width: 200px;
+    ;
+    border: 2px solid rgb(224, 222, 231);
+    margin-left: 400px;
+    position: absolute;
+    top: 3530px
+}
+
+.or {
+    color: rgb(235, 228, 229);
+    position: absolute;
+    top: 3550px;
+    margin-left: 200px;
+    font-size: 15px;
+}
+
+#full {
+    height: 50px;
+    width: 500px;
+    background-color: rgb(251, 246, 246);
+    color: rgb(163, 180, 194);
+    position: absolute;
+    top: 3600px;
+    position: absolute;
+    right: 1190px;
+}
+
+#number {
+    height: 50px;
+    width: 500px;
+    background-color: rgb(251, 246, 246);
+    color: rgb(163, 180, 194);
+    position: absolute;
+    top: 3660px;
+    position: absolute;
+    right: 1190px;
+}
+
+#mail {
+    height: 50px;
+    width: 500px;
+    background-color: rgb(251, 246, 246);
+    color: rgb(163, 180, 194);
+    position: absolute;
+    top: 3720px;
+    position: absolute;
+    right: 1190px;
+}
+
+#massages {
+    height: 120px;
+    width: 500px;
+    background-color: rgb(251, 246, 246);
+    color: rgb(163, 180, 194);
+    position: absolute;
+    top: 3790px;
+    position: absolute;
+    right: 1190px;
+}
+
+#green {
+    margin-top: 200px;
+    height: 40px;
+    width: 150px;
+    background-color: green;
+    color: azure;
+    position: absolute;
+    top: 3740px;
+    position: absolute;
+    right: 1530px;
+}
+
+#boxess {
+    height: 330px;
+    width: 500px;
+    background-color: rgb(232, 232, 237);
+    position: absolute;
+    top: 3590px;
+    position: absolute;
+    right: 600px;
+}
+
+#monial {
+    margin-left: 600px;
+    margin-top: 50px;
+}
+
+#suffered {
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+.jonima {
+    margin-left: 210px;
+    color: green;
+    position: absolute;
+    top: 4300px;
+}
+
+.hr3 {
+    width: 350px;
+    position: absolute;
+    top: 4340px;
+    border: 1px solid black;
+    margin-left: 200px;
+}
+
+.quick {
+    margin-left: 510px;
+    position: absolute;
+    top: 4320px;
+
+}
+
+.doler {
+    position: absolute;
+    top: 4365px;
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+.duo {
+    color: green;
+    margin-left: 900px;
+    position: absolute;
+    top: 4300px;
+}
+
+#resources {
+    width: 350px;
+    border: 1px solid black;
+    position: absolute;
+    top: 4340px;
+    margin-left: 900px;
+}
+
+.uniqu {
+    margin-left: 1200px;
+    position: absolute;
+    top: 4320px;
+}
+
+#amet {
+    position: absolute;
+    top: 4365px;
+    font-size: 20px;
+    margin-left: 900px;
+}
+
+#lazy {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 40px;
+    margin-left: 630px;
+    position: absolute;
+    top: 4590px;
+}
+
+#edit {
+    height: 20px;
+    width: 60px;
+    background-color: rgb(55, 136, 46);
+    border-radius: 40px;
+    margin-left: 660px;
+    position: absolute;
+    top: 4590px
+}
+
+#play {
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 40px;
+    margin-left: 730px;
+    position: absolute;
+    top: 4590px;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#bar1 {
+    height: 450px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    top: 4590px;
+}
+
+.map {
+    margin-left: 200px;
+    position: absolute;
+    bottom: 350px;
+}
+
+.location {
+    margin-left: 240px;
+    position: absolute;
+    bottom: 350px;
+    color: rgb(216, 213, 220);
+}
+
+#var {
+    margin-left: 740px;
+    position: absolute;
+    bottom: 350px;
+    color: rgb(110, 18, 231);
+}
+
+.cal {
+    margin-left: 780px;
+    position: absolute;
+    bottom: 350px;
+    color: rgb(239, 239, 232);
+}
+
+.mail {
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 350px;
+}
+
+#gmail {
+    margin-left: 1350px;
+    position: absolute;
+    bottom: 350px;
+    color: white;
+}
+
+#many {
+    color: rgb(232, 232, 237);
+    margin-left: 200px;
+    position: absolute;
+    bottom: 250px;
+}
+
+.eos {
+    color: rgb(222, 214, 229);
+    margin-left: 200px;
+    position: absolute;
+    bottom: 140px;
+}
+
+#link {
+    margin-left: 780px;
+    position: absolute;
+    bottom: 260px;
+    color: rgb(239, 239, 232)
+}
+
+#sit {
+    margin-left: 780px;
+    position: absolute;
+    bottom: 150px;
+    color: rgb(239, 239, 232)
+}
+
+.sub {
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 260px;
+    color: rgb(239, 239, 232)
+}
+
+#are {
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 230px;
+    color: rgb(239, 239, 232)
+}
+
+.illo {
+    width: 300px;
+    border: 1px solid rgb(243, 232, 232);
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 220px;
+}
+
+.japan {
+    color: green;
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 190px;
+}
+
+.twiiter {
+    margin-left: 1300px;
+    position: absolute;
+    bottom: 90px;
+}
+
+.youtube {
+    margin-left: 1335px;
+    position: absolute;
+    bottom: 90px;
+}
+
+.insta {
+    margin-left: 1369px;
+    position: absolute;
+    bottom: 90px;
+}
+
+.kedin {
+    margin-left: 1395px;
+    position: absolute;
+    bottom: 90px;
+}
+
+.template {
+    position: absolute;
+    bottom: 20px;margin-left: 550px;color: beige;
+}
+.home{position: absolute;top:50px;} 
+li{list-style:none ; display: inline-block;margin-left: 220px;font-size: 20PX;}                                                                       
